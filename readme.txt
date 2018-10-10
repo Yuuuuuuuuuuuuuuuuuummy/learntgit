@@ -6,4 +6,4 @@ Git is a free software.
 
 Git has a mutable 
 
-Git tracks changes.
+Git tracks changes of files.
