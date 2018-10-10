@@ -10,5 +10,4 @@ Git tracks changes of files.
 
 class
 ucas
-
-C	REATING
+Creating a new branch of the readme
